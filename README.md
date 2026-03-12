@@ -8,5 +8,5 @@
 
 ### **// Current Process**
 - 🚀 **Compiling:** Learning Best of AI tools
-- 🎧 **Syncing:** Coding to the beat of **Daft Punk**.
+- 🎧 **Syncing:** Coding to the beat of **French House** and **Classic Instrumental**.
 - 🛠️ **Status:** Open for **None** collaborations.
