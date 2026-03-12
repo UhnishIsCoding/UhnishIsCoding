@@ -1,4 +1,4 @@
-# **Greetings, I am Anish Or Uhnish.** 🟦
+# **Greetings There, I am Anish Or Uhnish.** 🟦
 ---
 
 ### **// Technical Core**
