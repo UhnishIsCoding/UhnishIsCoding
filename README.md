@@ -9,4 +9,4 @@
 ### **// Current Process**
 - 🚀 **Compiling:** Learning Best of AI tools
 - 🎧 **Syncing:** Coding to the beat of **French House** and **Classic Instrumental**.
-- 🛠️ **Status:** Open for **None** collaborations.
+- 🛠️ **Status:** Studying As a Under Grad
