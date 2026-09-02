@@ -1,12 +1,3 @@
-# **Greetings There, I am Anish Or Uhnish.** 🟦
----
+### Hi, I'm Uhnish 👋
 
-### **// Technical Core**
-* **Primary Logic:**  `Python`, `C++`, `Java`
-* **Intelligence:** **Using GenAI** ✨
-* **Drive:** **Vibe Coding** & **Real Code**
-
-### **// Current Process**
-- 🚀 **Compiling:** Learning Best of AI tools
-- 🎧 **Syncing:** Coding to the beat of **French House** and **Classic Instrumental**.
-- 🛠️ **Status:** Studying As a Under Grad
+![GitHub Stats](https://raw.githubusercontent.com/UhnishIsCoding/UhnishIsCoding/main/assets/stats.svg)
